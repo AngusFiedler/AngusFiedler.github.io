@@ -3,30 +3,20 @@
 #### Technical Skills: Python, Java, C++, C, SQL, C\#.NET, Visual Studio, Django, Flutter, XCode, Postgresql, Docker.
 
 ## Projects
-### 
-[Simple Finance](https://github.com/AngusFiedler/simple-finance-web)
+### [Simple Finance](https://github.com/AngusFiedler/simple-finance-web)
 
 Created website that allows users to quickly add financial data to keep track of investments and net worth. (Django, Python, Postgresql, HTML, Javascript)
 
 ## Work Experience
-**Software Engineer @ Lockheed Martin (_June 2022 - Present_)**
-- Developed mission critical software for Next Gen OPIR as a part of the Mission Management team.
+- **Software Engineer @ Lockheed Martin (_June 2022 - Present_)**
 
-**Student Software Engineer @ LASP (_Feb 2020 – May 2022_)**
-- Developed full stack application based on indentified user pain points.
+- **Student Software Engineer @ LASP (_Feb 2020 – May 2022_)**
 
-**Software Developer, Co-op  @ FirstRF Corporation (_Nov 2019 – June 2020_)**
-- Developed internal hardware testing software.
+- **Software Developer, Co-op  @ FirstRF Corporation (_Nov 2019 – June 2020_)**
 
-**Student Software Developer, Co-op  @ University of Colorado (_Mar 2019 -- Nov 2019_)**
-- Increased efficiency by over 50% through the creation of C# scripts to automate tasks.
-- Converted outdated applications to .NET applications.
+- **Student Software Developer, Co-op  @ University of Colorado (_Mar 2019 -- Nov 2019_)**
 
-**Aquatic Facility Lead  @ City of Boulder (_June 2015 -- Sept 2021)**
-- Created and developed new SOP's related to lifeguard response, radio usage, and emergency action plans using the all hazards response framework.
-- Created and developed supervisor manual to assist in the training and operations of all aquatic facilities in the City of Boulder.
-- Managed aquatic facility operations including supervision of lifeguards and swim instructors.
-- Implemented and conducted evaluation and training of staff, and aquatics programs (in-service trainings, pump room operations and water chemistry testing)
+- **Aquatic Facility Lead  @ City of Boulder (_June 2015 -- Sept 2021)**
 
 
 ## Leadership
