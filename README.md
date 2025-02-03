@@ -1,37 +1,46 @@
-# Software Engineer
+# Angus Fiedler | Software Engineer
 
-#### Technical Skills: Python, Java, C++, C, SQL, C\#.NET, Visual Studio, Django, Flutter, XCode, Postgresql, Docker.
+## Technical Skills  
+- **Languages & Frameworks**: Python, Java, C++, C, C#, SQL  
+- **Technologies**: Docker, PostgreSQL, Django, Flutter, XCode, Visual Studio  
+- **Tools**: Git, REST APIs, Agile Development, Continuous Integration  
 
-## Projects
-### [Simple Finance](https://github.com/AngusFiedler/simple-finance-web)
+## Projects  
+### [Simple Finance](https://github.com/AngusFiedler/simple-finance-web)  
+Developed a web application to help users track their investments, expenses, and net worth.  
+**Technologies used**: Django, Python, PostgreSQL, HTML, JavaScript
 
-Created website that allows users to quickly add financial data to keep track of investments and net worth. (Django, Python, Postgresql, HTML, Javascript)
+## Work Experience  
+### **Software Engineer** – Lockheed Martin (_June 2022 – Present_)  
+- Contributed to cutting-edge defense technologies, focusing on software development and system integration.  
+- Collaborated within cross-functional teams to design, test, and deploy solutions that meet mission-critical requirements.
 
-## Work Experience
-- **Software Engineer @ Lockheed Martin (_June 2022 - Present_)**
+### **Student Software Engineer** – LASP, University of Colorado Boulder (_Feb 2020 – May 2022_)  
+- Assisted in developing software for space missions, improving data analysis tools and systems used for satellite communication.  
+- Worked with a multidisciplinary team to support both operational and research projects.
 
-- **Student Software Engineer @ LASP (_Feb 2020 – May 2022_)**
+### **Software Developer (Co-op)** – FirstRF Corporation (_Nov 2019 – June 2020_)  
+- Developed software solutions for RF (radio frequency) systems.  
+- Focused on automation and testing of wireless communication equipment.
 
-- **Software Developer, Co-op  @ FirstRF Corporation (_Nov 2019 – June 2020_)**
+### **Software Developer (Co-op)** – University of Colorado Boulder (_Mar 2019 – Nov 2019_)  
+- Created tools and applications for academic research projects, optimizing data collection and analysis processes.  
+- Collaborated with faculty and students to enhance software tools for university research.
 
-- **Student Software Developer, Co-op  @ University of Colorado (_Mar 2019 -- Nov 2019_)**
+### **Aquatic Facility Lead** – City of Boulder (_June 2015 – Sept 2021_)  
+- Led operations and management of aquatic facilities, including scheduling, staff coordination, and training.  
+- Implemented safety protocols and customer service initiatives that improved overall facility performance.
 
-- **Aquatic Facility Lead  @ City of Boulder (_June 2015 -- Sept 2021)**
+## Leadership & Volunteering  
+### **Captain, Boulder Emergency Squad** – Aug 2018 – Present  
+- Supervise and coordinate technical rescue operations involving multi-agency teams, with responsibility for communication systems and incident management.  
+- Led a project to modernize the communications infrastructure for the squad, transitioning from analog to digital solutions.  
+- Managed procurement and deployment of over $190k in equipment and licensing.
 
+### **Awards & Recognition**  
+- **Boulder Emergency Squad**: Member of the Year (2021)  
+- **Google Student Developer Club**: Active Member, CU Boulder Chapter (2020)  
+- **Hack-a-thons**: Participated in [HackMIT 2020](https://github.com/AngusFiedler/Hack_MIT_2020) and [HackCU 2019](https://github.com/AngusFiedler/HackCU2019), focusing on app development with Flutter and bike ride tracking.
 
-## Leadership
-**Boulder Emergency Squad - Lieutenant - (_Aug 2018 - Present_)**
-- Lietenant and Communications supervisor for Search and Rescue agency located in Boulder Colorado.
-- Responsobile for managing complex technical rescue incidents involving up to 30 personnel from multiple agencies and disciplines with experience gained from 400+ rescue calls.
-- Modernized thirty-year-old communications infrastructure which was previously analog voice only, to a mod-
-ern platform that supported frequencies our paid partners expected.
-- Researched, tested, and selected technology partners procured over $30k in communications equipment and
-licensing and deployment of new frequencies.
-
-## Education		        		
-B.S., Computer Science | University of Colorado Boulder (_May 2018_)
-
-## Additional Experience / Awards	
-- **Boulder Emergency Squad:** Recognized as 2021 Member of the year	        		
-- **Google Student Developer Club (2020):** A member of the CU Boulder chapter of the Google SDC
-- **Hack-a-thon:** [HackMIT 2020](https://github.com/AngusFiedler/Hack_MIT_2020) / [HackCU 2019](https://github.com/AngusFiedler/HackCU2019) (task application using flutter / bike ride tracking application in flutter)
+## Education  
+**B.S. in Computer Science**, University of Colorado Boulder (_May 2018_)
