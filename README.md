@@ -1,20 +1,19 @@
-# Angus Fiedler | Premedical Student
+# Premedical Student
 
 ## Education
-- Postbaccalaureate - Premedical Program | Bryn Mawr College (_In Progress_)		        		
-- B.S. - Computer Science | University of Colorado Boulder (_May 2018_)
+Postbaccalaureate - Premedical Program @ Bryn Mawr College (_In Progress_)		        		
+B.S. - Computer Science @ University of Colorado Boulder (_May 2018_)
 
 ## Leadership
 **Boulder Emergency Squad - Lieutenant - (_Aug 2018 - Present_)**
-- Lietenant and Communications supervisor for Search and Rescue agency located in Boulder Colorado.
+- Lieutenant and Communications supervisor for Search and Rescue agency located in Boulder, Colorado.
 - Responsible for managing complex technical rescue incidents involving up to 30 personnel from multiple agencies and disciplines with experience gained from 400+ rescue calls.
 - Modernized thirty-year-old communications infrastructure which was previously analog voice only, to a modern platform that supported frequencies our paid partners expected.
 - Researched, tested, and selected technology partners procured over $30k in communications equipment and
 licensing and deployment of new frequencies.
-- 2021 Member of the year.
 
 ## Work Experience
-- Software Engineer @ Lockheed Martin (_June 2022 - Present_)
+- Software Engineer @ Lockheed Martin (_June 2022 - May 2025_)
 
 - Student Software Engineer @ LASP (_Feb 2020 – May 2022_)
 
