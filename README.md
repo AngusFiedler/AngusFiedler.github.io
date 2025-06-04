@@ -1,6 +1,9 @@
-# Premedical Student (Ex: Software Engineer)
+# Angus Fiedler | Premedical Student
 
-#### Technical Skills: Python, Java, C++, C, SQL, C\#.NET, Visual Studio, Django, Flutter, XCode, Postgresql, Docker.
+## Technical Skills  
+- **Languages & Frameworks**: Python, Java, C++, C, C#, SQL  
+- **Technologies**: Docker, PostgreSQL, Django, Flutter, XCode, Visual Studio  
+- **Tools**: Git, REST APIs, Agile Development, Continuous Integration  
 
 
 ## Education
@@ -31,7 +34,10 @@ licensing and deployment of new frequencies.
 ## Projects
 ### [Simple Finance](https://github.com/AngusFiedler/simple-finance-web)
 
-Created website that allows users to quickly add financial data to keep track of investments and net worth. (Django, Python, Postgresql, HTML, Javascript)
+## Work Experience  
+### **Software Engineer** – Lockheed Martin (_June 2022 – Present_)  
+- Contributed to cutting-edge defense technologies, focusing on software development and system integration.  
+- Collaborated within cross-functional teams to design, test, and deploy solutions that meet mission-critical requirements.
 
 ## Additional Experience / Awards	
 - **Boulder Emergency Squad:** Recognized as 2021 Member of the year	        		
