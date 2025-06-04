@@ -1,11 +1,5 @@
 # Angus Fiedler | Premedical Student
 
-## Technical Skills  
-- **Languages & Frameworks**: Python, Java, C++, C, C#, SQL  
-- **Technologies**: Docker, PostgreSQL, Django, Flutter, XCode, Visual Studio  
-- **Tools**: Git, REST APIs, Agile Development, Continuous Integration  
-
-
 ## Education
 - Postbaccalaureate - Premedical Program | Bryn Mawr College (_In Progress_)		        		
 - B.S. - Computer Science | University of Colorado Boulder (_May 2018_)
@@ -30,17 +24,16 @@ licensing and deployment of new frequencies.
 
 - Aquatic Facility Lead  @ City of Boulder (_June 2015 -- Sept 2021)
 
-
 ## Projects
 ### [Simple Finance](https://github.com/AngusFiedler/simple-finance-web)
-
-## Work Experience  
-### **Software Engineer** – Lockheed Martin (_June 2022 – Present_)  
-- Contributed to cutting-edge defense technologies, focusing on software development and system integration.  
-- Collaborated within cross-functional teams to design, test, and deploy solutions that meet mission-critical requirements.
 
 ## Additional Experience / Awards	
 - **Boulder Emergency Squad:** Recognized as 2021 Member of the year	        		
 - **Google Student Developer Club (2020):** A member of the CU Boulder chapter of the Google SDC
 - **Hack-a-thon:** [HackMIT 2020](https://github.com/AngusFiedler/Hack_MIT_2020) / [HackCU 2019](https://github.com/AngusFiedler/HackCU2019) (task application using flutter / bike ride tracking application in flutter)
 - **Restaurant Recommender** Received second place for data structures project
+
+## Technical Skills  
+- **Languages & Frameworks**: Python, Java, C++, C, C#, SQL  
+- **Technologies**: Docker, PostgreSQL, Django, Flutter, XCode, Visual Studio  
+- **Tools**: Git, REST APIs, Agile Development, Continuous Integration  
