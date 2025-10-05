@@ -13,6 +13,8 @@ B.S. - Computer Science @ University of Colorado Boulder (_May 2018_)
 licensing and deployment of new frequencies.
 
 ## Work Experience
+- Research Assistant @ Penn Medicine (_May 2025 - Present_)
+
 - Software Engineer @ Lockheed Martin (_June 2022 - May 2025_)
 
 - Student Software Engineer @ LASP (_Feb 2020 – May 2022_)
