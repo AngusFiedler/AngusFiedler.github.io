@@ -29,6 +29,7 @@ licensing and deployment of new frequencies.
 ### [Simple Finance](https://github.com/AngusFiedler/simple-finance-web)
 
 ## Additional Experience / Awards	
+- **Boulder Emergency Squad:** Recognized as 2025 Officer of the year
 - **Boulder Emergency Squad:** Recognized as 2021 Member of the year	        		
 - **Google Student Developer Club (2020):** A member of the CU Boulder chapter of the Google SDC
 - **Hack-a-thon:** [HackMIT 2020](https://github.com/AngusFiedler/Hack_MIT_2020) / [HackCU 2019](https://github.com/AngusFiedler/HackCU2019) (task application using flutter / bike ride tracking application in flutter)
